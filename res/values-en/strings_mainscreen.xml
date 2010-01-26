@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/com.kosenkov.alarm">
+	<string name="app_title_startscreen">Smart Alarm Clock</string>
+
+	<string name="instructions_no_alarm">Please set the alarm time to begin tracking the best moment to wake you up.
+	</string>
+	<string name="instructions_early">It seems too early to go to sleep. \n\nMovements tracking automatically begins on 8 hours before the alarm time.
+	</string>
+	<string name="instructions_ready">Click Start tracking button when you are ready to go to bed.</string>
+	<string name="instructions_active">Searching for the best wake-up moment. \n\nPut the phone somewhere on your bed and have a good night!
+	</string>
+
+	<string name="button_start">Start tracking</string>
+	<string name="button_stop">Cancel tracking</string>
+
+	<string name="button_disable">Disable</string>
+
+	<string name="about_help_text">Smart Alarm Clock finds the optimal time to wake up according sleep stage monitoring. \n\nPlease run this program to set the alarm time, and then take your phone to bed at night. Do not tie the phone to your body, just put it on the surface of the bed.</string>
+
+	<string name="about_welcome_text">Smart Alarm Clock finds the optimal time to wake up according sleep stage monitoring; just take your phone to bed at night and the alarm will go off right after the end of your last dream. \n\nThis trial version will expire March 1, 2010.\n\nClick the menu to access additional options.
+	</string>
+
+	<string name="warning_native_enabled">It seems that native alarm clock is currently active and may interfere with Smart Alarm Clock.</string>
+	<string name="warning_native_disabled">Native alarm clock has been turned off</string>
+
+	<string name="menu_set_alarm">Set alarm</string>
+
+	<string name="alarm_time">Alarm:</string>
+	<string name="time_not_set">Alarm time is not set</string>
+	<string name="time_not_set_help">Click here to set alarm</string>
+
+	<string name="menu_browse">History</string>
+	<string name="menu_about">About program</string>
+	<string name="menu_copyright">Copyright</string>
+	<string name="menu_help">Help</string>
+
+	<string name="menu_web">Read more</string>
+
+	<string name="about_welcome_title">Welcome!</string>
+
+	<string name="read_more">Read more</string>
+	<string name="application_expired">This application version has expired. Please install fresh version from Android Market</string>
+</resources>
+
