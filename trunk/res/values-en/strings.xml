@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/com.kosenkov.alarm">
+    <string name="app_name">Smart Alarm Clock</string>
+
+    <string name="app_title_copyright">Copyright and credits</string>
+
+    <!-- Alarm confirmation toast: Ante Meridiem, or am  -->
+    <string name="am">am</string>
+
+    <!-- Alarm confirmation toast: Post Meridiem, or pm  -->
+    <string name="pm">pm</string>
+
+    <string name="dismiss">Dismiss</string>
+
+    <string name="service_started">Smart Alarm Clock activated</string>
+    <string name="service_running_title">Smart Alarm Clock is active</string>
+    <string name="service_running_description">Searching for the best wake-up time.</string>
+
+    <string name="service_reminder">It\'s time to sleep!</string>
+    <string name="service_reminder_description">Smart Alarm Clock is ready to make your awakening better.</string>
+
+    <string name="error_htc_hero">It seems that your phone can not record the movements while the screen is off due to
+        firmware bug.\n\nPlease read our website for details and workaround.
+    </string>
+    <string name="error_database">Could not open database. Please try uninstalling the application and then installing a
+        fresh copy.
+    </string>
+    <string name="error_low_battery">Movements tracking was interrupted because battery went low.</string>
+    </resources>

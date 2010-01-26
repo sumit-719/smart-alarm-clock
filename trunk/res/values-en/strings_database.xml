@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/com.kosenkov.alarm">
+	<string name="app_title_database">Sleep history</string>
+	<string name="app_title_database_detailed">Dream details</string>
+
+	<string name="database_empty">No records yet</string>
+	<string name="database_empty_description">This window will show activity charts of your movement at night. Every chart record that is at least one hour-long will be listed here.
+	</string>
+
+	<string name="about_history">This window shows the history of your body movements during the sleep. Smart Alarm Clock calculates your sleep stages and the optimal moment of awakening based on these movements.\n\nPlease upload your movements history and ratings - those anonymous statistics will help us to improve the application to make your awakening even better!
+	</string>
+
+	<string name="action_title">Actions</string>
+	<string name="action_view">Zoom in</string>
+	<string name="action_delete">Delete record</string>
+	<string name="action_rate">Rate this morning</string>
+
+	<string name="upload_message">Uploading the history to the server</string>
+	<string name="upload_button_start">Start</string>
+	<string name="upload_message_done">Uploaded
+		<xliff:g id="count">%d</xliff:g>
+		records.
+	</string>
+	<string name="upload_message_done_0">Nothing was uploaded</string>
+
+	<string name="menu_upload">Upload</string>
+	<string name="menu_delete_all">Clear</string>
+	<string name="menu_preferences">Preferences</string>
+
+	<string name="delete_all_title">Delete the database?</string>
+	<string name="delete_all_text">All records will be completely deleted from the phone</string>
+	<string name="delete_all_done">The database has been scheduled for deletion</string>
+
+	<string name="error_sd">Failed to write movements data to SD card</string>
+</resources>

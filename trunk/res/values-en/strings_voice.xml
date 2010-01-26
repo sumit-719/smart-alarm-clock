@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/com.kosenkov.alarm">
+	<string name="app_name_voice">¡Idea! Quick note</string>
+
+	<string name="voice_done">Record was saved on SD-card \n
+		<xliff:g id="name">%s</xliff:g>
+	</string>
+	<string name="voice_canceled">Recording canceled</string>
+	<string name="voice_recording">Voice memo is recording now</string>
+	<string name="error_recording_message">Cannot start recording</string>
+
+	<string name="voice_help">This tiny application is dedicated to quickly save your ideas and voice notes. It is a part of Smart Alarm Clock and can be quickly launched during the night just by shaking your phone.</string>
+
+</resources>

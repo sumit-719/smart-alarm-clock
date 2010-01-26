@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="klaxon_instruction_long_click">Long-click on the screen to turn off the alarm!</string>
+    <string name="klaxon_instruction_slide">Slide to turn off the alarm!</string>
+    <string name="klaxon_instruction_shake">Shake the phone to turn off the alarm!</string>
+
+    <string name="klaxon_stopped_dismissed">Alarm stopped</string>
+    <string name="klaxon_stopped_snooze">Snooze for 10 minutes</string>
+
+    <string name="klaxon_stopped_unattended">Alarm silenced after 20 minutes</string>
+</resources>

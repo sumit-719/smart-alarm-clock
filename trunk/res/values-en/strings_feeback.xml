@@ -1,0 +1,33 @@
+<resources>
+	<string name="feedback_title">How do you feel?</string>
+	<string name="feedback_notification">Please, rate your morning</string>
+
+	<string name="error_title">Smart Alarm Clock - Warning</string>
+
+	<string name="feedback_description">Please, rate your awaking. Your opinion will help us to improve the algorithm of the alarm clock
+	</string>
+
+	<string name="feedback_send_error">Error during upload</string>
+
+	<string-array name="feedback_thanks_0">
+		<item>We will try harder next morning!</item>
+		<item>I\'m really sorry that you start your day that way</item>
+	</string-array>
+
+	<string-array name="feedback_thanks">
+		<item>Thank you!</item>
+		<item>Good morning to you!</item>
+		<item>Thanks for the feedback!</item>
+		<item>Thanks for your rating!</item>
+		<item>Thank you for sharing!</item>
+	</string-array>
+
+	<string-array name="feedback_thanks_5">
+		<item>Don\'t forget to tweet about that ;-)</item>
+		<item>What a great morning!</item>
+		<item>Good morning!! :-)</item>
+		<item>We are really glad that you feel so good =)</item>
+		<item>Hope to see you next day!</item>
+	</string-array>
+
+</resources>

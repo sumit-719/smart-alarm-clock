@@ -1,0 +1,11 @@
+<resources>
+
+	<string name="sensor_fail_message">Unfortunately, this phone cannot record movements while the screen is off.\n\n Please vote for bugfix on Google pages.</string>
+	<string name="sensor_absent_message">Unfortunately, this phone does not have built-in accelerometer and cannot be used with this kind of applications.</string>
+
+	<string name="url_help_sensor_fail">device_warn.html</string>
+	<string name="url_help_sensor_absent">device_error.html</string>
+
+	<string name="sensor_hack_screen_text">Smart Alarm Clock is searching for the best moment to wake you up.\n\n Unfortunately, this phone cannot record movements while the screen is off due to firmware bug. Please use the charger every night.\n\nYou can also vote for this bug to be fixed.</string>
+
+</resources>

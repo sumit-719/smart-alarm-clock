@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/com.kosenkov.alarm">
+	<string name="app_title_preferences">Preferences</string>
+
+	<string name="about_preferences">Sound volume can be set using side keys.\n\nYou may also install TonePicker, Rings Extended or similar application to use your music library as a ringtone.
+	</string>
+
+	<string name="pref_smart_alarm">Smart Alarm Clock</string>
+	<string name="pref_smart_interval">Alarm time range window</string>
+	<string name="pref_smart_interval_descr">Time to find the best moment to wake up</string>
+
+	<string name="pref_save_battery">Battery saving mode</string>
+	<string name="pref_save_battery_on">Movements tracking will be turned on just in the morning</string>
+	<string name="pref_save_battery_on_help">Data collecting will be turned on just in the morning. \n\nThis method is not that effective and does not give any sleep statistics for future research but it consumes little energy.</string>
+	<string name="pref_save_battery_off">Data will be collected during the whole night</string>
+	<string name="pref_save_battery_off_help">You turned on the mode of data collecting during the whole night. \n\nIt is the most comprehensive method but it consumes quite a lot of energy – do not forget to charge the phone every night!</string>
+
+	<string name="pref_during_the_night">During the night</string>
+
+	<string name="pref_voice">Voice notes</string>
+	<string name="pref_voice_on">Shake the phone to turn on recording</string>
+	<string name="pref_voice_off">Helps you to record dreams or ideas</string>
+
+	<string name="pref_ringtone">Ringtone</string>
+	<string name="pref_ringtone_default">Default ringtone</string>
+	<string name="pref_ringtone_silent">No ringtone sound! Are you sure?</string>
+	<string name="pref_ringtone_custom">Audiofile is selected as a ringtone</string>
+
+	<string name="pref_test_alarm">Test current preferences!</string>
+	<string name="pref_test_alarm_descr">Click to test the alarm right now</string>
+
+	<string name="pref_crescendo">Increasing volume</string>
+	<string name="pref_crescendo_on">Ringer volume will gradually increase</string>
+	<string name="pref_crescendo_off">Buzzer will start with a maximum volume</string>
+
+	<string name="warning_silent">Do you really want to turn off the sound and vibration? Alarm clock will not be able to wake you up.\nSound volume can be set using side keys.</string>
+	<string name="warning_running">Some options are not available, because movements tracking is currently active.</string>
+
+	<string name="pref_silent">Silent mode</string>
+	<string name="pref_silent_on">Everything except the alarm will be muted</string>
+	<string name="pref_silent_off">Mute all sounds during the night</string>
+
+	<string name="pref_airplane">Airplane mode</string>
+	<string name="pref_airplane_on">All wireless connections will be disabled during the night</string>
+	<string name="pref_airplane_off">Disable wireless connections</string>
+	<!--
+			<string name="pref_external">External applications</string>
+			<string name="pref_external_clock">Night Clock</string>
+			<string name="pref_external_clock_on">Third-party night clock app will be automatically started</string>
+			<string name="pref_external_clock_off">Click to </string>
+			<string name="pref_external_clock_description">Night Clock</string>
+		-->
+
+	<string name="pref_auto_start">Start automatically</string>
+	<string name="pref_auto_start_on">Movements tracking will start on 8 hours before alarm time</string>
+	<string name="pref_auto_start_off">Reminder will be shown on 8 hours before alarm time</string>
+
+	<string name="pref_feedback">Ask for feedback</string>
+	<string-array name="pref_feedback_names">
+		<item>Every morning</item>
+		<item>Sometimes</item>
+		<item>Do not ask</item>
+	</string-array>
+	<string-array name="pref_feedback_values">
+		<item>always</item>
+		<item>sometimes</item>
+		<item>never</item>
+	</string-array>
+
+	<string name="pref_feedback_upload">Upload your feedback</string>
+	<string name="pref_feedback_upload_on">Your anonymous feedback will be uploaded for further research. Thanks!</string>
+	<string name="pref_feedback_upload_off">Please use Upload menu in Sleep History screen to upload manually</string>
+
+	<string name="emergency_stop_service">Emergency stop</string>
+	<string name="emergency_stop_service_done">Background service has been stopped. It will start again on the next day or upon system restart.</string>
+
+	<string name="pref_mode">Sleep stage detection mode</string>
+	<string name="pref_mode_descr">Just for you - one user</string>
+	<string-array name="pref_mode_names">
+		<item>Just for you \n (one user)</item>
+		<item>Double bed \n (two users)</item>
+		<item>Synchronized \n (two devices)</item>
+	</string-array>
+	<string-array name="pref_mode_values">
+		<item>s1</item>
+		<item>d2</item>
+		<item>a2+</item>
+	</string-array>
+	<string name="pref_mode_error">This free version supports single-user mode only. \n\nIf you usually sleep on a double bed, please support the development and future research by purchasing an Extended version.</string>
+
+	<string name="pref_dismiss_mode">How to stop the alarm</string>
+	<string name="pref_dismiss_mode_descr">The way to make sure that you wake up</string>
+	<string-array name="pref_dismiss_mode_names">
+		<item>Slide on the screen</item>
+		<item>Shake strongly</item>
+		<item>Solve mini-puzzle</item>
+	</string-array>
+	<string-array name="pref_dismiss_mode_values">
+		<item>slide</item>
+		<item>shake</item>
+		<item>puzzle</item>
+	</string-array>
+	<string name="pref_dismiss_mode_error">The best way to make you wake up is to do exercises. For example, actively shaking the phone for 30 seconds. \n\nThis option is exclusive to Extended version.</string>
+
+
+	<string name="pref_klaxon_extended">Personalize</string>
+	<string name="pref_klaxon_extended_descr">Ringer sound &amp; display options</string>
+	<string name="pref_klaxon_extended_display">Ringer display preferences</string>
+
+	<string name="pref_wallpaper">Alarm display wallpaper</string>
+	<string name="pref_wallpaper_descr">Select background picture or gallery</string>
+	<string name="pref_wallpaper_error">This free version has pre-configured background. \n\nThis customization and many other features are available in the Extended version.</string>
+
+	<string name="pref_good_morning_text">Alarm text</string>
+
+	<string name="pref_snooze">Snooze button</string>
+	<string name="pref_snooze_descr">Enable snooze button and set the interval</string>
+	<string name="pref_snooze_error">Snooze button is not available in this free version. \n\nSmart Alarm Clock Extended provides this and many other features.</string>
+
+
+	<string name="pref_snoring">Prevent snoring</string>
+	<string name="pref_snoring_descr">Phone gently tries to stop snoring if it is detected</string>
+	<string name="pref_snoring_error">Snoring is known to cause sleep deprivation to snorers and those around them. \n\nAt the moment we are working on technology that will help stop snoring and improve your sleep quality. Please support the development by purchasing an Extended version.</string>
+
+	<string name="pref_error_title">Free limited version</string>
+</resources>
